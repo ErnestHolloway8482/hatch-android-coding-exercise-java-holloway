@@ -1,4 +1,4 @@
-hatch-androidcodingchallengejava
+hatch-android-coding-exercise-java-holloway
 
 Project Description:
 
