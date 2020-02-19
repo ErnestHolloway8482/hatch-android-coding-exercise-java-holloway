@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hatch-android-exercise-holloway</string>
+    <string name="dialog_title">Send Message</string>
+    <string name="dialog_message">Are you sure that you want to send a text message to this contact?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="send_text_button_message">Send Text Message</string>
+    <string name="favorite_icon_content_description">Contact Favorite</string>
+    <string name="contact_permission_explanation">The contacts permission is required to list the contacts. If you deny the permissions, you will need to navigate to the app settings to manually enable the contacts permission.</string>
+    <string name="contact_list_empty">There are no contacts to display.</string>
+</resources>
