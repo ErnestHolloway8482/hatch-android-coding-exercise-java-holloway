@@ -40,7 +40,7 @@ Installation Steps:
 
 Please make sure that Android Studio is up to date with latest SDK. The minimum SDK supported is API23, and compiler SDK and target SDK are all set to API29.
 
-I've setup a public repository for the code where the latest code changes are in master here: https://github.com/ErnestHolloway8482/underarmour-coding-exercise-holloway.git
+I've setup a public repository for the code where the latest code changes are in master here: https://github.com/ErnestHolloway8482/hatch-android-coding-exercise-java-holloway
 
 Please clone the repository using your favorite GitHub Link or simply download the project as a zipfile. You should not need any credentials to clone.
 
